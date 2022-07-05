@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48935184846",
+    "project_id": "setbells1",
+    "storage_bucket": "setbells1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48935184846:android:27ca475ed86f552393a39f",
+        "android_client_info": {
+          "package_name": "com.example.setbells1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48935184846-plqhb50ofo0ttn17igknqa5vlasvs1l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhiiiQgNMHFJElO3R4DBAivt5pd-PKtTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48935184846-plqhb50ofo0ttn17igknqa5vlasvs1l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
