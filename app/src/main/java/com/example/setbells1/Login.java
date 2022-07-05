@@ -27,7 +27,7 @@ public class Login extends AppCompatActivity {
 
     TextView username_var,password_var,signupbutton,forgotPass;
     Button loginbutton;
-    TextInputEditText password;
+    //TextInputEditText password;
 
     FirebaseAuth firebaseAuth;
     @Override
@@ -39,7 +39,7 @@ public class Login extends AppCompatActivity {
          password_var = (TextView) findViewById(R.id.passwords);
         forgotPass = findViewById(R.id.forgotpass);
 
-        password = findViewById(R.id.password_toggle1);
+       // password = findViewById(R.id.password_toggle1);
          loginbutton = findViewById(R.id.logingbtnsignup);
          signupbutton =  findViewById(R.id.signupbtn);
          firebaseAuth = FirebaseAuth.getInstance();
